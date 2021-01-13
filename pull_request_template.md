@@ -10,6 +10,9 @@
 - [ ] General improvement 
 - [ ] This change requires a documentation update
 
+### Testing Hints
+please write how to test the proposed changes
+
 ### Additional Info
 ** any additional useful context or info **
 
