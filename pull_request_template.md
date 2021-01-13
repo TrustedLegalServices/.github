@@ -11,7 +11,7 @@
 - [ ] This change requires a documentation update
 
 ### Testing Hints
-** please write how to test the proposed changes **
+** please describe, how to test the proposed changes by other developers**
 
 ### Additional Info
 ** any additional useful context or info **
