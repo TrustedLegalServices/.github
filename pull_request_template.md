@@ -1,4 +1,4 @@
-### Wrike ticket URL or Short description of change and which issue is fixed
+### Jira ticket URL or Short description of change and which issue is fixed
 
 ** link **
 
