@@ -21,6 +21,7 @@
 - [ ] I checked out the branch and have checked the functionality
 - [ ] I have updated the documentation (i.e.Wiki)
 - [ ] I have updated the README.md
+- [ ] I have added automated tests to cover my changes
 
 ### Screenshots
 
